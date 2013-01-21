@@ -1,4 +1,4 @@
 Dictionary
 ==========
 
-Dictionary Tree
+Simple tree based dictionary. 
