@@ -1,4 +1,4 @@
 Dictionary
 ==========
 
-Simple tree based dictionary. 
+Prefix tree(Trie) based dictionary. 
